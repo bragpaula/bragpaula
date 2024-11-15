@@ -1,26 +1,25 @@
-# 👩‍💻 Paula Braga  
+# 👩🏾‍💻 Paula Braga  
 
-### Desenvolvedora Front-End
-
-🌟 **Bem-vinda(o) ao meu GitHub!** Aqui compartilho projetos e aprendizados enquanto exploro o universo do desenvolvimento web.  
+🌟 **Desenvolvedora Front-End | Criadora de Experiências Digitais**  
 
 ---
 
-## 📖 Sobre Mim  
-Sou desenvolvedora front-end com experiência em **HTML**, **CSS** e **JavaScript** (atualmente mergulhando no React e TypeScript). Tenho paixão por criar interfaces responsivas e intuitivas, sempre focada em melhorar a experiência do usuário. Estou constantemente aprendendo e aprimorando minhas habilidades, buscando transformar ideias em realidade por meio da tecnologia.
+## ✨ Sobre Mim  
+Olá! Sou a **Paula Braga**, apaixonada por tecnologia e inovação. Minha missão como desenvolvedora front-end é transformar ideias em interfaces criativas, funcionais e acessíveis, que proporcionem experiências incríveis aos usuários.  
+
+Atualmente, estou aprimorando minhas habilidades em **React** e **TypeScript**, enquanto me mantenho atualizada com as tendências do desenvolvimento web.
 
 ---
 
-## 🎯 Objetivos  
-Estou em busca de oportunidades para criar soluções criativas e funcionais, com a meta de me tornar uma **desenvolvedora full-stack** no futuro. Enquanto isso, quero contribuir com projetos desafiadores que me ajudem a crescer profissional e tecnicamente.
+## 🛠️ Habilidades  
 
----
-
-## 🛠️ Skills  
-
-- **Frontend**: HTML, CSS, JavaScript, Responsividade, Bootstrap  
-- **Backend**: MySQL, Python (básico)  
-- **Ferramentas**: Git & GitHub  
+- **Frontend**:  
+  - HTML, CSS, JavaScript  
+  - Frameworks: Bootstrap, Responsividade  
+- **Backend (básico)**:  
+  - Python, MySQL  
+- **Ferramentas**:  
+  - GitHub  
 
 ---
 
@@ -37,17 +36,14 @@ Estou em busca de oportunidades para criar soluções criativas e funcionais, co
 
 ---
 
-## 📫 Contato  
-📧 **E-mail**: brgpaula0@gmail.com  
-📱 **Telefone**: (84) 9 9182-1425  
-🔗 **Portfólio**: [meu-portfólio](https://bragpaula.github.io/meu-portfolio/)  
-🐦 **Twitter**: [@brgpaula](https://twitter.com/brgpaula)  
+## 🔗 Conecte-se Comigo!  
+- 🌐 **Portfólio**: [meu-portfólio](https://bragpaula.github.io/meu-portfolio/)  
+- 🐦 **Twitter**: [@brgpaula](https://twitter.com/brgpaula)  
 
 ---
 
-💡 *"A melhor maneira de prever o futuro é inventá-lo."*  
-🚀 Vamos criar algo incrível juntos!  
+💡 *"A tecnologia só é poderosa quando usada para conectar e transformar."*  
 
 ---
 
-Se quiser ajustes ou um estilo mais personalizado, é só avisar! 😊
+### ✨ Obrigada por visitar meu perfil! Vamos criar algo incrível juntos. 🚀  
