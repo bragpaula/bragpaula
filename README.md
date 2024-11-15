@@ -1,13 +1,11 @@
 # 👩🏾‍💻 Paula Braga  
 
-🌟 **Desenvolvedora Front-End | Criadora de Experiências Digitais**  
+🌟 **Bem-vinda(o) ao meu GitHub!** Aqui compartilho projetos e aprendizados enquanto exploro o universo do desenvolvimento web.  
 
 ---
 
 ## ✨ Sobre Mim  
-Olá! Sou a **Paula Braga**, apaixonada por tecnologia e inovação. Minha missão como desenvolvedora front-end é transformar ideias em interfaces criativas, funcionais e acessíveis, que proporcionem experiências incríveis aos usuários.  
-
-Atualmente, estou aprimorando minhas habilidades em **React** e **TypeScript**, enquanto me mantenho atualizada com as tendências do desenvolvimento web.
+Sou desenvolvedora front-end com experiência em **HTML**, **CSS** e **JavaScript** (atualmente mergulhando no React e TypeScript). Tenho paixão por criar interfaces responsivas e intuitivas, sempre focada em melhorar a experiência do usuário. Estou constantemente aprendendo e aprimorando minhas habilidades, buscando transformar ideias em realidade por meio da tecnologia.
 
 ---
 
@@ -19,7 +17,7 @@ Atualmente, estou aprimorando minhas habilidades em **React** e **TypeScript**, 
 - **Backend (básico)**:  
   - Python, MySQL  
 - **Ferramentas**:  
-  - GitHub  
+  - Git & GitHub  
 
 ---
 
@@ -38,7 +36,7 @@ Atualmente, estou aprimorando minhas habilidades em **React** e **TypeScript**, 
 
 ## 🔗 Conecte-se Comigo!  
 - 🌐 **Portfólio**: [meu-portfólio](https://bragpaula.github.io/meu-portfolio/)  
-- 🐦 **Twitter**: [@brgpaula](https://twitter.com/brgpaula)  
+- 💼 **LinkedIn**: [Paula Braga](https://www.linkedin.com/in/bragpaula)  
 
 ---
 
