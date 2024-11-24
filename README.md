@@ -36,7 +36,7 @@ Sou desenvolvedora front-end com experiência em **HTML**, **CSS** e **JavaScrip
 
 ## 🔗 Conecte-se Comigo!  
 - 🌐 **Portfólio**: [meu-portfólio](https://bragpaula.github.io/meu-portfolio/)  
-- 💼 **LinkedIn**: [Paula Braga]([https://www.linkedin.com/in/bragpaula](https://www.linkedin.com/in/paula-braga-5344102b1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMzqmVDD5QS%2BL%2F0cei2wQ4g%3D%3D))  
+- 💼 **LinkedIn**: [Paula Braga](https://www.linkedin.com/in/paula-braga-5344102b1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMzqmVDD5QS%2BL%2F0cei2wQ4g%3D%3D) 
 
 ---
 
