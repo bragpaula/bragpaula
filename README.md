@@ -1,4 +1,4 @@
-# 👋 Oi, eu sou a Paula Braga!
+# 👋 Oi, eu sou Paula Braga!
 
 🌿 Desenvolvedora Front-end em transição para Full Stack | Apaixonada por Design e Experiências Digitais
 
